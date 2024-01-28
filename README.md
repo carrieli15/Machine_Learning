@@ -1,1 +1,3 @@
-This repo contains assignment for Machine Learning.
+# Machine Learning
+
+*This is for the Machine Learning assignment.*
